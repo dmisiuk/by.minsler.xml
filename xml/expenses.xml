@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expenseslist>
+	<expense>
+		<num>1</num>
+		<paydate>2012-05-12</paydate>
+		<receiver>1</receiver>
+		<value>51000</value>
+	</expense>
+	<expense>
+		<num>2</num>
+		<paydate>2012-06-07</paydate>
+		<receiver>2</receiver>
+		<value>1500</value>
+	</expense>
+	<expense>
+		<num>3</num>
+		<paydate>2011-03-17</paydate>
+		<receiver>1</receiver>
+		<value>7000</value>
+	</expense>
+</expenseslist>
